@@ -13,19 +13,22 @@ The dashboard was created in Tableau. <br>
 
 <img width="800" alt="Campaign Category Dashboard" src="https://github.com/user-attachments/assets/783cd15d-bb44-4162-9e51-f13a7c6ccf0c" />
 
-[View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
+[View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br> <br>
 
 
 
 ### High-Impact Recommendations:
 
-TBD
+- **Consolidate Budget Around Low-Cost, High-Performance Campaigns:** Shift more resources toward Campaign 31 (lowest cost per signup at $0.23), Health Awareness (lowest cost per signup at $0.92), and Campaign 14 (CPC $0.00) to capitalize on their high efficiency. Simultaneously, deprioritize or restructure high-cost efforts such as Campaign 5 (cost per signup $1,519.17) and Offer Announcement (cost per signup $69.61).
 
--   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
--   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
--   **Leverage Best-Selling Categories:** Bikes consistently show strong revenue (peaking at $36 million in 2019). Strengthen marketing campaigns and supply chain management around key bike subcategories (Mountain Bikes, Road Bikes) to build momentum.
--   **Tailor Efforts to Top Regions and Customers:** Countries such as France and Germany have higher average revenue per top customer ($13k in France, $10k in Germany). Create targeted promotions or loyalty programs for France and Germany to further increase sales.
+- **Leverage Silver Plan’s Strong Results:** With the highest number of claims (43,179), highest clicks (794,857), and the lowest cost per signup ($2.42), Silver demonstrates outstanding performance. Expand marketing around Silver’s success stories—like its #HealthyLiving campaign—to boost overall conversions and replicate best practices across other plans.
+
+- **Optimize by State to Balance Cost and Volume:** While NJ dominates in both claims and clicks, it also offers a relatively low cost per signup ($4.10). Further increase investment in NJ to maximize high-volume returns. At the same time, investigate ways to reduce costs in high-expense states like FL ($1,011.84 per signup) or shift focus to DC, which delivers the lowest CPC ($0.03).
+
+- **Refine Platinum’s Signup Funnel:** Despite a strong click-through rate (11.27%) and a low CPC ($0.04), Platinum yields a 0.00% signup rate, pushing its cost per signup up to $490.77. Conduct a thorough funnel analysis to identify drop-off points, optimize landing pages, and tailor messaging (e.g., “Affordable Plans,” “#CoverageMatters”) to convert curious prospects into actual signups.
 <br>
+
+
 
 
 
@@ -40,6 +43,13 @@ This analysis was focused on providing insights in the following key areas:
 - [Categories](#categories)
 - [Subcategories](#subcategories)
 - [Countries](#countries) <br> <br>
+
+
+Overall
+Click through rate (CTR): 9.39%
+Cost per click (CPC): $0.07
+Signup rate: 0.18%
+Cost per signup: $3.68
 
 
 Campaign ID
@@ -61,7 +71,10 @@ Claims: Silver recorded the most claims at 43,179, while Platinum had the fewest
 Clicks: Silver also registered the highest number of clicks at 794,857, whereas Platinum had the lowest at 138,153.
 Cost per Click: Bronze, Silver, and Platinum shared the lowest cost per click at $0.04, and Gold posted the highest at $0.05.
 Cost per Signup: Silver secured the lowest cost per signup at $2.42, while Platinum showed the highest at $490.77.
-
+Bronze: This plan has a click-through rate of 11.12% and a cost per click of $0.04, leading to a 0.02% signup rate and a cost per signup of $23.90. The campaign with the most customers is Preventative Care News.
+Silver: With a click-through rate of 9.60% and a cost per click of $0.04, Silver achieves a 0.17% signup rate and a cost per signup of $2.42. Its top campaign is #HealthyLiving.
+Gold: Featuring a click-through rate of 8.80% and a cost per click of $0.05, Gold shows a 0.03% signup rate and a cost per signup of $16.98, with a prominent campaign impact from #CoverageMatters.
+Platinum: This plan reports a 11.27% click-through rate and a $0.04 cost per click, but a 0.00% signup rate results in a high cost per signup of $490.77. Its campaigns include Affordable Plans and #CoverageMatters.
 
 
 State
@@ -71,18 +84,8 @@ Cost per Click: DC had the lowest cost per click at $0.03, and KS posted the hig
 Cost per Signup: NJ offered the lowest cost per signup at $4.10, while FL had the highest at $1,011.84.
 
 
-Overall
-Click through rate (CTR): 9.39%
-Cost per click (CPC): $0.07
-Signup rate: 0.18%
-Cost per signup: $3.68
 
 
-Plan
-Bronze: This plan has a click-through rate of 11.12% and a cost per click of $0.04, leading to a 0.02% signup rate and a cost per signup of $23.90. The campaign with the most customers is Preventative Care News.
-Silver: With a click-through rate of 9.60% and a cost per click of $0.04, Silver achieves a 0.17% signup rate and a cost per signup of $2.42. Its top campaign is #HealthyLiving.
-Gold: Featuring a click-through rate of 8.80% and a cost per click of $0.05, Gold shows a 0.03% signup rate and a cost per signup of $16.98, with a prominent campaign impact from #CoverageMatters.
-Platinum: This plan reports a 11.27% click-through rate and a $0.04 cost per click, but a 0.00% signup rate results in a high cost per signup of $490.77. Its campaigns include Affordable Plans and #CoverageMatters.
 
 
 
