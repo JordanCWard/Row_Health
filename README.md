@@ -51,7 +51,11 @@ Health for All had the most claims with 12,232.
 #HealthyLiving had the highest cost at $4,662.
 Summer Wellness had the lowest cost per click at $0.02.
 
-Silver had the most claims with 4
+Silver had the most claims with 43,179.
+Silver had the most clicks with 794,857.
+Silver had the highest cost at $33,962.
+Bronze, Silver and Platinum had the lowest cost per click at $0.04.
+
 
 
 Overall
