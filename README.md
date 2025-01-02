@@ -39,37 +39,36 @@ TBD
 This analysis was focused on providing insights in the following key areas:
 
 - [Campaign ID](#campaign-id)
-- [Profit](#profit)
-- [Categories](#categories)
-- [Subcategories](#subcategories)
-- [Countries](#countries) <br> <br>
+- [Campaign Type](#campaign-type)
+- [Plans](#plans)
+- [State](#state)  <br> <br>
 
 
 ### Campaign ID
 - **Claims**: Campaign 18 recorded the highest (11,590).
 - **Clicks**: Campaign 27 had the most (47,785), while Campaign 33 had the fewest (0).
 - **Cost per Click**: Campaign 14 offered the lowest ($0.00), and Campaign 5 had the highest ($0.65).
-- **Cost per Signup**: Campaign 31 had the lowest ($0.23), whereas Campaign 5 had the highest ($1,519.17).
+- **Cost per Signup**: Campaign 31 had the lowest ($0.23), whereas Campaign 5 had the highest ($1,519.17). <br> <br>
 
-**Campaign Type**
+### Campaign Type
 - **Claims**: Product Promotion had the highest (16,897), while Offer Announcement had the lowest (164).
 - **Clicks**: Policy Information recorded the highest (256,970), while Health Tips had the lowest (42,940).
 - **Cost per Click**: Health Awareness and Policy Information both had the lowest ($0.03), while Customer Testimonial saw the highest ($0.07).
-- **Cost per Signup**: Health Awareness achieved the lowest ($0.92), whereas Offer Announcement had the highest ($69.61).
+- **Cost per Signup**: Health Awareness achieved the lowest ($0.92), whereas Offer Announcement had the highest ($69.61). <br> <br>
 
 
-**Plans**
+### Plans
 - **Claims and Clicks**: Silver led both metrics with 43,179 claims and 794,857 clicks, while Platinum had the fewest (39 claims, 138,153 clicks).
-- **Cost Metrics**: Bronze, Silver, and Platinum shared the lowest cost per click at \$0.04, while Gold’s was slightly higher at \$0.05. Silver offered the lowest cost per signup (\$2.42), whereas Platinum’s stood at \$490.77.
+- **Cost Metrics**: Bronze, Silver, and Platinum shared the lowest cost per click at $0.04, while Gold’s was slightly higher at $0.05. Silver offered the lowest cost per signup ($2.42), whereas Platinum’s stood at $490.77.
 - **Plan Highlights**:
-  - **Bronze**: 11.12% CTR, \$0.04 CPC, 0.02% signup rate, \$23.90 cost per signup, top campaign is *Preventative Care News*.
-  - **Silver**: 9.60% CTR, \$0.04 CPC, 0.17% signup rate, \$2.42 cost per signup, top campaign is *#HealthyLiving*.
-  - **Gold**: 8.80% CTR, \$0.05 CPC, 0.03% signup rate, \$16.98 cost per signup, campaign impact from *#CoverageMatters*.
-  - **Platinum**: 11.27% CTR, \$0.04 CPC, 0.00% signup rate, \$490.77 cost per signup, campaigns include *Affordable Plans* and *#CoverageMatters
+  - **Bronze**: 11.12% CTR, $0.04 CPC, 0.02% signup rate, $23.90 cost per signup, top campaign is *Preventative Care News*.
+  - **Silver**: 9.60% CTR, $0.04 CPC, 0.17% signup rate, $2.42 cost per signup, top campaign is *#HealthyLiving*.
+  - **Gold**: 8.80% CTR, $0.05 CPC, 0.03% signup rate, $16.98 cost per signup, campaign impact from *#CoverageMatters*.
+  - **Platinum**: 11.27% CTR, $0.04 CPC, 0.00% signup rate, $490.77 cost per signup, campaigns include *Affordable Plans* and *#CoverageMatters. <br> <br>
 
 
-**State**
+### State
 - **Claims**: NJ recorded the most (26,279), while FL had the fewest (14).
 - **Clicks**: NJ registered the highest number of clicks (733,612), whereas FL had the lowest (95,178).
-- **Cost per Click**: DC had the lowest (\$0.03), and KS posted the highest (\$0.07).
-- **Cost per Signup**: NJ offered the lowest (\$4.10), while FL showed the highest (\$1,011.84).
+- **Cost per Click**: DC had the lowest ($0.03), and KS posted the highest ($0.07).
+- **Cost per Signup**: NJ offered the lowest ($4.10), while FL showed the highest ($1,011.84).
