@@ -1,29 +1,48 @@
+# <p align="center"> Row Health Campaigns </p>
 
+Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they introduced a range of marketing campaigns covering wellness tips, plan affordability, and preventative care. Row Health offers four plan tiers—bronze, silver, gold, and platinum—each featuring different premium levels and claim coverage rates.
 
-<img width="800" alt="Campaign Category Dashboard v3" src="https://github.com/user-attachments/assets/0692e9ff-1a4c-427c-92ab-eb454e93a9b0" />
-
-[View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-
-**Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States**. **In 2019, they launched a new set of marketing campaign categories** spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. 
-
-Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. **As a data analyst at Row Health, your focus is on building visualizations** to enable the marketing team to self-serve insights and regular-cadence reporting.
+The primary goal is to evaluate how Row Health’s 2019 marketing campaigns influence signups for these plan tiers and subsequent patient claims. The outcome involves creating a dashboard and regular-cadence reports that enable the marketing team to independently explore insights and measure the effectiveness of their campaigns over time.
 
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/Row_Health/blob/8e34947d1fc025c04dfe5a50cb3793ac9777c182/ERD.png). <br> <br>
 
-# <p align="center"> Row Health Campaign Analysis </p>
-
-IBC, founded in 2017, is a global bike company specializing in bicycles and bicycle parts. IBC possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance.
-
-This dashboard was created in Power BI. The data was cleaned using Excel and Power Query. <br>
 
 
-### Dashboards
 
-<img width="1200" alt="Dashboard" src="https://github.com/user-attachments/assets/c8cc56fc-9b96-4eb1-b2c5-b27bbf669576" /> <br> <br>
 
-<img width="1200" alt="Sales & Customers" src="https://github.com/user-attachments/assets/68441bfb-77a1-470f-a536-c63be19faa9c" /> <br>
+### Dashboard
+
+This dashboard was created in Tableau. <br>
+
+<img width="800" alt="Campaign Category Dashboard v3" src="https://github.com/user-attachments/assets/8a812f15-fa06-4d3c-bd76-12670b438219" />
+
+[View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### High-Impact Recommendations:
