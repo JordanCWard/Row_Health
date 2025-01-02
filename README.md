@@ -7,16 +7,6 @@ The primary goal is to evaluate how Row Health’s 2019 marketing campaigns infl
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/Row_Health/blob/8e34947d1fc025c04dfe5a50cb3793ac9777c182/ERD.png). <br> <br>
 
 
-### Dashboard
-
-The dashboard was created in Tableau. <br>
-
-<img width="800" alt="Campaign Category Dashboard" src="https://github.com/user-attachments/assets/783cd15d-bb44-4162-9e51-f13a7c6ccf0c" />
-
-[View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br> <br>
-
-
-
 ### High-Impact Recommendations:
 
 - **Consolidate Budget Around Low-Cost, High-Performance Campaigns:** Shift more resources toward Campaign 31 (lowest cost per signup at $0.23), Health Awareness (lowest cost per signup at $0.92), and Campaign 14 (CPC $0.00) to capitalize on their high efficiency. Simultaneously, deprioritize or restructure high-cost efforts such as Campaign 5 (cost per signup $1,519.17) and Offer Announcement (cost per signup $69.61).
@@ -29,12 +19,16 @@ The dashboard was created in Tableau. <br>
 <br>
 
 
+### Dashboard
 
+The dashboard was created in Tableau. <br>
+
+<img width="800" alt="Campaign Category Dashboard" src="https://github.com/user-attachments/assets/783cd15d-bb44-4162-9e51-f13a7c6ccf0c" />
+
+[View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br> <br>
 
 
 ## <p align="center"> Insights Deep-Dive </p>
-
-TBD
 
 This analysis was focused on providing insights in the following key areas:
 
