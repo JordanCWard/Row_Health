@@ -7,9 +7,6 @@ The primary goal is to evaluate how Row Health’s 2019 marketing campaigns infl
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/Row_Health/blob/8e34947d1fc025c04dfe5a50cb3793ac9777c182/ERD.png). <br> <br>
 
 
-
-
-
 ### Dashboard
 
 This dashboard was created in Tableau. <br>
@@ -20,32 +17,9 @@ This dashboard was created in Tableau. <br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### High-Impact Recommendations:
+
+TBD
 
 -   **Capitalize on High-Margin Items:** Focus on subcategories and categories with the highest profit margins, including Accessories (59% margin), Fenders, Bike Stands, and Tires & Tubes.
 -   **Optimize Underperforming Products:** Revisit pricing, production, and marketing strategies for subcategories with weak or negative profit margins (e.g., Jerseys, Touring Frames).
@@ -57,6 +31,8 @@ This dashboard was created in Tableau. <br>
 
 ## <p align="center"> Insights Deep-Dive </p>
 
+TBD
+
 This analysis was focused on providing insights and recommendations in the following key areas:
 
 - [Revenue](#revenue)
@@ -64,6 +40,37 @@ This analysis was focused on providing insights and recommendations in the follo
 - [Categories](#categories)
 - [Subcategories](#subcategories)
 - [Countries](#countries) <br> <br>
+
+
+Overall
+Click through rate (CTR): 9.39%
+Cost per click (CPC): $0.07
+Signup rate: 0.18%
+Cost per signup: $3.68
+
+Bronze
+Click through rate (CTR): 11.12%
+Cost per click (CPC): $0.04
+Signup rate: 0.02%
+Cost per signup: $23.90
+
+Silver
+Click through rate (CTR): 9.60%
+Cost per click (CPC): $0.04
+Signup rate: 0.17%
+Cost per signup: $2.42
+
+Gold
+Click through rate (CTR): 8.80%
+Cost per click (CPC): $0.05
+Signup rate: 0.03%
+Cost per signup: $16.98
+
+Platinum
+Click through rate (CTR): 11.27%
+Cost per click (CPC): $0.04
+Signup rate: 0.00%
+Cost per signup: $490.77
 
 
 
@@ -75,43 +82,6 @@ This analysis was focused on providing insights and recommendations in the follo
 -   **Weakest Quarter**: Q4 2017, with $5.9 million.
 -   **Peak Year**: Revenue peaked at $43 million in 2019. <br> <br>
 
-
-### Profit
-
--   **Total Profit**: $13.1 million
--   **Growth Over Time**: Increased from $963k in Q3 2017 to $1.6 million in Q2 2020.
--   **Best Quarter**: Q1 2020, with $1.9 million in profit.
--   **Weakest Quarter**: Q2 2018, with $379k in profit.
--   **Peak Year**: Annual profit peaked at $4.6 million in 2019. <br> <br>
-
-
-
-### Categories
-
-Bikes
-    
-- **Revenue Growth**: Increased from $5.7 million in Q3 2018 to $10.7 million in Q2 2020.
-- **Peak Revenue**: $36 million in 2019, the highest-performing category.
-- **Profit Margin**: 13%.
-
-Components
-    
-- **Revenue Growth**: Increased from $310k in Q3 2018 to $1.4 million in Q2 2020.
-- **Peak Revenue**: $5.5 million in 2019.
-- **Profit Margin**: 15%.
-
-Clothing
-    
-- **Revenue Growth**: Increased from $19k in Q3 2018 to $320k in Q2 2020.
-- **Peak Revenue**: $1.1 million in 2019.
-- **Profit Margin**: 24%.
-
-Accessories
-    
-- **Revenue Growth**: Increased from $20k in Q3 2018 to $275k in Q2 2020.
-- **Peak Revenue**: $651k in 2019, the lowest-performing category.
-- **Profit Margin**: 59%. <br> <br>
-    
 
 ### Subcategories
 
