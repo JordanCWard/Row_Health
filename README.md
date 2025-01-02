@@ -11,7 +11,7 @@ The entity relation diagram (ERD) can be found [here](https://github.com/JordanC
 
 The dashboard was created in Tableau. <br>
 
-<img width="800" alt="Campaign Category Dashboard v3" src="https://github.com/user-attachments/assets/8a812f15-fa06-4d3c-bd76-12670b438219" />
+<img width="800" alt="Campaign Category Dashboard" src="https://github.com/user-attachments/assets/783cd15d-bb44-4162-9e51-f13a7c6ccf0c" />
 
 [View the dashboard on Tableau Public](https://public.tableau.com/views/row_health_tableau/CampaignCategoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
 
@@ -40,6 +40,18 @@ This analysis was focused on providing insights and recommendations in the follo
 - [Categories](#categories)
 - [Subcategories](#subcategories)
 - [Countries](#countries) <br> <br>
+
+
+Campaign 18 had the most claims with 11,590.
+Campaign 27 had the most clicks with 47,785.
+Campaign 3 had the highest cost at $1,944.
+
+Health for All had the most claims with 12,232.
+#HealthyLiving had the most clicks with 127,130.
+#HealthyLiving had the highest cost at $4,662.
+Summer Wellness had the lowest cost per click at $0.02.
+
+Silver had the most claims with 4
 
 
 Overall
