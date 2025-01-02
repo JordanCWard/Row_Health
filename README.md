@@ -9,7 +9,7 @@ The entity relation diagram (ERD) can be found [here](https://github.com/JordanC
 
 ### Dashboard
 
-This dashboard was created in Tableau. <br>
+The dashboard was created in Tableau. <br>
 
 <img width="800" alt="Campaign Category Dashboard v3" src="https://github.com/user-attachments/assets/8a812f15-fa06-4d3c-bd76-12670b438219" />
 
