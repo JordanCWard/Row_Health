@@ -38,14 +38,14 @@ TBD
 
 This analysis was focused on providing insights in the following key areas:
 
-- [Campaign ID](#campaigns)
+- [Campaign ID](#campaign-id)
 - [Profit](#profit)
 - [Categories](#categories)
 - [Subcategories](#subcategories)
 - [Countries](#countries) <br> <br>
 
 
-### Campaigns
+### Campaign ID
 - **Claims**: Campaign 18 recorded the highest (11,590).
 - **Clicks**: Campaign 27 had the most (47,785), while Campaign 33 had the fewest (0).
 - **Cost per Click**: Campaign 14 offered the lowest ($0.00), and Campaign 5 had the highest ($0.65).
