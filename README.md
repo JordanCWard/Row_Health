@@ -33,7 +33,7 @@ TBD
 
 TBD
 
-This analysis was focused on providing insights and recommendations in the following key areas:
+This analysis was focused on providing insights in the following key areas:
 
 - [Revenue](#revenue)
 - [Profit](#profit)
@@ -42,20 +42,33 @@ This analysis was focused on providing insights and recommendations in the follo
 - [Countries](#countries) <br> <br>
 
 
-Campaign 18 had the most claims with 11,590.
-Campaign 27 had the most clicks with 47,785.
-Campaign 3 had the highest cost at $1,944.
+Campaign ID
+Claims: Campaign 18 recorded the highest number of claims with 11,590.
+Clicks: Campaign 27 had the most clicks at 47,785, while Campaign 33 had the fewest at 0.
+Cost per Click: Campaign 14 offered the lowest cost per click at $0.00, and Campaign 5 had the highest at $0.65.
+Cost per Signup: Campaign 31 had the lowest cost per signup at $0.23, whereas Campaign 5 had the highest at $1,519.17.
 
-Health for All had the most claims with 12,232.
-#HealthyLiving had the most clicks with 127,130.
-#HealthyLiving had the highest cost at $4,662.
-Summer Wellness had the lowest cost per click at $0.02.
 
-Silver had the most claims with 43,179.
-Silver had the most clicks with 794,857.
-Silver had the highest cost at $33,962.
-Bronze, Silver and Platinum had the lowest cost per click at $0.04.
+Campaign Type
+Claims: Product Promotion had the highest number of claims at 16,897, while Offer Announcement had the lowest at 164.
+Clicks: Policy Information recorded the highest clicks with 256,970, while Health Tips had the lowest at 42,940.
+Cost per Click: Both Health Awareness and Policy Information tied for the lowest cost per click at $0.03, while Customer Testimonial saw the highest at $0.07.
+Cost per Signup: Health Awareness achieved the lowest cost per signup at $0.92, whereas Offer Announcement had the highest at $69.61.
 
+
+Plan
+Claims: Silver recorded the most claims at 43,179, while Platinum had the fewest at 39.
+Clicks: Silver also registered the highest number of clicks at 794,857, whereas Platinum had the lowest at 138,153.
+Cost per Click: Bronze, Silver, and Platinum shared the lowest cost per click at $0.04, and Gold posted the highest at $0.05.
+Cost per Signup: Silver secured the lowest cost per signup at $2.42, while Platinum showed the highest at $490.77.
+
+
+
+State
+Claims: NJ recorded the most with 26,279, while FL had the fewest at 14.
+Clicks: NJ also registered the highest number of clicks at 733,612, whereas FL had the lowest at 95,178.
+Cost per Click: DC had the lowest cost per click at $0.03, and KS posted the highest at $0.07.
+Cost per Signup: NJ offered the lowest cost per signup at $4.10, while FL had the highest at $1,011.84.
 
 
 Overall
@@ -64,33 +77,17 @@ Cost per click (CPC): $0.07
 Signup rate: 0.18%
 Cost per signup: $3.68
 
-Bronze
-Click through rate (CTR): 11.12%
-Cost per click (CPC): $0.04
-Signup rate: 0.02%
-Cost per signup: $23.90
-Campaign impact: Preventative Care News
 
-Silver
-Click through rate (CTR): 9.60%
-Cost per click (CPC): $0.04
-Signup rate: 0.17%
-Cost per signup: $2.42
-Campaign impact: #HealthyLiving, Health For All, Compare Health Coverage, #CoverageMatters
+Plan
+Bronze: This plan has a click-through rate of 11.12% and a cost per click of $0.04, leading to a 0.02% signup rate and a cost per signup of $23.90. The campaign with the most customers is Preventative Care News.
+Silver: With a click-through rate of 9.60% and a cost per click of $0.04, Silver achieves a 0.17% signup rate and a cost per signup of $2.42. Its top campaign is #HealthyLiving.
+Gold: Featuring a click-through rate of 8.80% and a cost per click of $0.05, Gold shows a 0.03% signup rate and a cost per signup of $16.98, with a prominent campaign impact from #CoverageMatters.
+Platinum: This plan reports a 11.27% click-through rate and a $0.04 cost per click, but a 0.00% signup rate results in a high cost per signup of $490.77. Its campaigns include Affordable Plans and #CoverageMatters.
 
-Gold
-Click through rate (CTR): 8.80%
-Cost per click (CPC): $0.05
-Signup rate: 0.03%
-Cost per signup: $16.98
-Campaign impact: #CoverageMatters, Compare Health Coverage
 
-Platinum
-Click through rate (CTR): 11.27%
-Cost per click (CPC): $0.04
-Signup rate: 0.00%
-Cost per signup: $490.77
-Campaign impact:
+
+
+
 
 
 ### Revenue
