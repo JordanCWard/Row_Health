@@ -53,25 +53,28 @@ Click through rate (CTR): 11.12%
 Cost per click (CPC): $0.04
 Signup rate: 0.02%
 Cost per signup: $23.90
+Campaign impact: Preventative Care News
 
 Silver
 Click through rate (CTR): 9.60%
 Cost per click (CPC): $0.04
 Signup rate: 0.17%
 Cost per signup: $2.42
+Campaign impact: #HealthyLiving, Health For All, Compare Health Coverage, #CoverageMatters
 
 Gold
 Click through rate (CTR): 8.80%
 Cost per click (CPC): $0.05
 Signup rate: 0.03%
 Cost per signup: $16.98
+Campaign impact: #CoverageMatters, Compare Health Coverage
 
 Platinum
 Click through rate (CTR): 11.27%
 Cost per click (CPC): $0.04
 Signup rate: 0.00%
 Cost per signup: $490.77
-
+Campaign impact:
 
 
 ### Revenue
