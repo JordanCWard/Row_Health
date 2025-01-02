@@ -25,7 +25,7 @@ The dashboard was created in Tableau. <br>
 
 - **Optimize by State to Balance Cost and Volume:** While NJ dominates in both claims and clicks, it also offers a relatively low cost per signup ($4.10). Further increase investment in NJ to maximize high-volume returns. At the same time, investigate ways to reduce costs in high-expense states like FL ($1,011.84 per signup) or shift focus to DC, which delivers the lowest CPC ($0.03).
 
-- **Refine Platinum’s Signup Funnel:** Despite a strong click-through rate (11.27%) and a low CPC ($0.04), Platinum yields a 0% signup rate, pushing its cost per signup up to $490.77. Conduct a thorough funnel analysis to identify drop-off points, optimize landing pages, and tailor messaging (e.g., “Affordable Plans,” “#CoverageMatters”) to convert curious prospects into actual signups.
+- **Refine Platinum’s Signup Funnel:** Despite a strong click-through rate (11.27%) and a low CPC ($0.04), Platinum yields a 0% signup rate, pushing its cost per signup up to $490.77. Conduct a thorough funnel analysis to identify drop-off points, optimize landing pages, and tailor messaging (e.g., Affordable Plans, #CoverageMatters) to convert curious prospects into actual signups.
 <br>
 
 
