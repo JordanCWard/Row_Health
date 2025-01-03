@@ -55,10 +55,10 @@ This analysis was focused on providing insights in the following key areas:
 - **Claims and Clicks**: Silver led both metrics with 43,179 claims and 794,857 clicks, while Platinum had the fewest (39 claims, 138,153 clicks).
 - **Cost Metrics**: Bronze, Silver, and Platinum shared the lowest cost per click (CPC) at $0.04, while Gold’s was slightly higher at $0.05. Silver offered the lowest cost per signup ($2.42), whereas Platinum’s stood at $490.77.
 - **Plan Highlights**:
-  - **Bronze**: 11.12% click through rate (CTR), $0.04 CPC, 0.02% signup rate, $23.90 cost per signup, top campaign is *Preventative Care News*.
-  - **Silver**: 9.60% CTR, $0.04 CPC, 0.17% signup rate, $2.42 cost per signup, top campaign is *#HealthyLiving*.
-  - **Gold**: 8.80% CTR, $0.05 CPC, 0.03% signup rate, $16.98 cost per signup, campaign impact from *#CoverageMatters*.
-  - **Platinum**: 11.27% CTR, $0.04 CPC, 0.00% signup rate, $490.77 cost per signup, campaigns include *Affordable Plans* and *#CoverageMatters. <br> <br>
+  - **Bronze**: Second highest cost per signup at $23.90, top campaign is *Preventative Care News*.
+  - **Silver**: Highest signup rate at 0.17%, top campaign is *#HealthyLiving*.
+  - **Gold**: Lowest CTR at 8.80%, top campaign is *#CoverageMatters*.
+  - **Platinum**: Highest CTR at 11.27%, highest cost per signup at $490.77. <br> <br>
 
 
 ### State
