@@ -19,8 +19,6 @@ The entity relation diagram (ERD) can be found [here](https://github.com/JordanC
 <br>
 
 
-
-
 ### Dashboard
 
 The dashboard was created in Tableau. <br>
