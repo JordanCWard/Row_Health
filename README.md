@@ -44,6 +44,7 @@ This analysis was focused on providing insights in the following key areas:
 - **Cost per Click**: Campaign 14 offered the lowest ($0.00), and Campaign 5 had the highest ($0.65).
 - **Cost per Signup**: Campaign 31 had the lowest ($0.23), whereas Campaign 5 had the highest ($1,519.17). <br> <br>
 
+
 ### Campaign Type
 - **Claims**: Product Promotion had the highest (16,897), while Offer Announcement had the lowest (164).
 - **Clicks**: Policy Information recorded the highest (256,970), while Health Tips had the lowest (42,940).
