@@ -6,8 +6,14 @@ The primary goal is to evaluate how Row Health’s 2019 marketing campaigns infl
 
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/Row_Health/blob/8e34947d1fc025c04dfe5a50cb3793ac9777c182/ERD.png). <br> <br>
 
+### Executive Summary
 
-### High-Impact Recommendations:
+Row Health’s primary objectives are to measure how the 2019 marketing campaigns influenced signups for its four plan tiers—bronze, silver, gold, and platinum—and the resulting patient claims. The overarching goal is to create a dashboard and regular reports empowering the marketing team to independently explore campaign effectiveness, allocate budgets more efficiently, and refine messaging strategies for each plan tier and target state.
+
+In 2019, Silver dominated with the highest claims (43,179), the most clicks (794,857), and the lowest cost per signup ($2.42). By contrast, Platinum generated a strong click-through rate (11.27%) yet saw a 0% signup rate, resulting in a very high cost per signup ($490.77). Low-cost, high-performance campaigns such as Campaign 31 ($0.23 per signup) and Health Awareness ($0.92 per signup) underscore the potential of budget reallocation, while high-expense channels like Campaign 5 ($1,519.17 per signup) warrant restructuring. Regionally, New Jersey achieved both high volume (26,279 claims) and a favorable cost per signup ($4.10), whereas Florida registered the fewest claims (14) alongside the most expensive cost per signup ($1,011.84). By focusing on these standout opportunities and addressing bottlenecks in underperforming areas, Row Health can optimize plan enrollments and marketing ROI moving forward.
+
+
+### High-Impact Recommendations
 
 - **Consolidate Budget Around Low-Cost, High-Performance Campaigns:** Shift more resources toward Campaign 31 (lowest cost per signup at $0.23), Health Awareness (lowest cost per signup at $0.92), and Campaign 14 (CPC $0.00) to capitalize on their high efficiency. Simultaneously, deprioritize or restructure high-cost efforts such as Campaign 5 (cost per signup $1,519.17) and Offer Announcement (cost per signup $69.61).
 
