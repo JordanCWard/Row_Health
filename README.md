@@ -1,5 +1,6 @@
 # <p align="center"> Row Health Campaigns </p>
 
+
 Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they introduced a range of marketing campaigns covering wellness tips, plan affordability, and preventative care. Row Health offers four plan tiers—bronze, silver, gold, and platinum—each featuring different premium levels and claim coverage rates.
 
 The primary goal is to evaluate how Row Health’s 2019 marketing campaigns influence signups for these plan tiers and subsequent patient claims. The outcome involves creating a dashboard and regular-cadence reports that enable the marketing team to independently explore insights and measure the effectiveness of their campaigns over time.
